@@ -1,0 +1,5 @@
+core = "7.x"
+description = "Gist Loader"
+name = "Gist loader"
+package = "nodeside"
+core = 7.x

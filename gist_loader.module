@@ -1,0 +1,7 @@
+<?php
+
+function gist_loader_init() { 
+  drupal_add_js(drupal_get_path('module', 'gist_loader') . '/js/gist_loader.js');
+}
+
+?>
